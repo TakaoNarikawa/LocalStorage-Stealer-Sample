@@ -1,0 +1,19 @@
+{
+  "name": "localstorage-stealer-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakaoNarikawa/LocalStorage-Stealer-Sample.git"
+  },
+  "author": "Takao Narikawa <takao.narikawa@gmail.com> (https://github.com/TakaoNarikawa)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakaoNarikawa/LocalStorage-Stealer-Sample/issues"
+  },
+  "homepage": "https://github.com/TakaoNarikawa/LocalStorage-Stealer-Sample#readme"
+}
